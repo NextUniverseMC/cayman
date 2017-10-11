@@ -89,8 +89,7 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background: rgb(100,16,179) url('https://forums.nextuniverse.org/styles/flexile/flexile/space.jpg') no-repeat;
 
   @include large {
     padding: 5rem 6rem;
