@@ -44,3 +44,4 @@ Players are then dropped into the new minigame, don't like it? Just vote again!
     
 });
 </script>
+<h1 id="latestNews">Latest News</h1>
