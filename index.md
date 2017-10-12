@@ -17,7 +17,7 @@ Players are then dropped into the new minigame, don't like it? Just vote again!
 <script>
   $(document).ready(function() {
     //feed to parse
-    var feed = "http://feeds.feedburner.com/raymondcamdensblog?format=xml";
+    var feed = "https://forums.nextuniverse.org/forums/announcements/index.rss";
     
     $.ajax(feed, {
         accepts:{
