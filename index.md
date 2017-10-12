@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## &x2611;
+## &#x2611;
 Vote for the server to restart, and the minigame you want (or go out on a limb with a random game).
 
 ## 📈
