@@ -32,7 +32,7 @@ Players are then dropped into the new minigame, don't like it? Just vote again!
                 console.log("------------------------");
                 console.log("title      : " + el.find("title").text());
                 console.log("link       : " + el.find("link").text());
-                console.log("description: " + el.find("content:encoded").text());
+                console.log("content: " + el.find("content:encoded").text());
             });
     
 
