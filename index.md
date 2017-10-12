@@ -34,6 +34,8 @@ Players are then dropped into the new minigame, don't like it? Just vote again!
                 console.log("link       : " + el.find("link").text());
                 console.log("content: " + el.find("content\\:encoded").text());
                 console.log("content: " + el.find("encoded").text());
+                
+                $("body > script").append("<h2><a href=\"" + el.find("link") + "/">" + el.find("title") + "</a></h2>");
             });
     
 
